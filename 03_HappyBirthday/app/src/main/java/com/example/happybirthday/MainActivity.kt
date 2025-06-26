@@ -83,6 +83,6 @@ fun BirthdayCard(message: String, from: String) {
 @Composable
 fun BirthdayCardPreview() {
     HappyBirthdayTheme {
-        BirthdayCard(message = "Happy Birthday, Carmen! 🥳", from = "from Akmal")
+        BirthdayCard(message = "Happy Birthday, Adrian!", from = "from Ismu")
     }
 }
